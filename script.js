@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Display Unread Badge for OWA
 // @namespace     ntrp
-// @version       1.0
+// @version       1.1
 // @description   This will check for unread messages and put the unread count in the Outlook Web App.
 // @match         https://outlook.office.com/*
 // @require       https://cdnjs.cloudflare.com/ajax/libs/favico.js/0.3.10/favico.min.js
